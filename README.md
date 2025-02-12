@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Parbat Nil Bera! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Parbatnil"><img src="https://img.shields.io/github/followers/Parbatnil?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/ParbatNilBera"><img src="https://img.shields.io/github/followers/Parbatnil?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/parbatnilbera"><img src="https://img.shields.io/badge/LinkedIn-ParbatNilBera-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
